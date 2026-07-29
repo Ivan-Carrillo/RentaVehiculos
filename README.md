@@ -59,4 +59,4 @@ Este proyecto está bajo la licencia MIT — consulta el archivo [LICENSE](./LIC
 
 ## ✍️ Autor
 
-**Ivan Carrillo**
+**Ivan Leonardo Carrillo Alor**
